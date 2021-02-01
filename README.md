@@ -1,4 +1,7 @@
 Author: Vishnu Rampersaud 
+Completion date: 12/10/19 
+
+Please ignore PDF where it says the year is Dec 2018, this assignment was given in the fall semester of 2019. 
 
 This is a class project related to directed and undirected graphs. A PDF with all project details, Assignment5.pdf,  is contained in this repository. The project consistes of three parts:
 
