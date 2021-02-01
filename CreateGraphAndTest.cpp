@@ -1,6 +1,7 @@
 /*
 	Author: Vishnu Rampersaud 
 	This creates an adjacency list that represents a given graph
+	Date: 12/10/19
 */
 
 #include "Vertex.h"
